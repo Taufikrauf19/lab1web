@@ -82,10 +82,11 @@ Ini adalah tag bagaimana menambahkan foto ke dalam HTML yaitu dengan menggunakan
 Ini adalah tag link menggunakan tag navigasi dimana tag tersebut seoerti (a herf) link ini akan menuju internal atau eksternal
 
 ## Contoh Coding
-
+```
 <nav>
         <a href="Lab2HTML>">Dasar HTML</a>
         <a href="Lab3HTML>">Halaman 2</a>
         <a href="lab4.html">Halaman Web Eksternal Google</a>
     </nav>
     <hr>
+```
